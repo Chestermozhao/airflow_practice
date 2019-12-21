@@ -7,6 +7,7 @@
 
 1. Using Python3.6
 2. Using black as tool of code pre-commit
+3. Using mongodb to save subscribe information
 
 ```shell
 python3 -m venv venv
