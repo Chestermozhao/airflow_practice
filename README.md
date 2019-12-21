@@ -38,3 +38,5 @@ airflow worker
    - Reset timezone in airflow.cfg
    - Maybe you wanna modify timezone in WebUI template
 2. [CeleryExecutor configs](https://zhuanlan.zhihu.com/p/42239805)
+3. execute date is different from start_date
+   - execute date is start_date add schedule_interval
