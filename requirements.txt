@@ -1,7 +1,7 @@
 aiohttp==3.6.2
 alembic==1.3.0
 amqp==2.5.2
-apache-airflow==1.10.6
+apache-airflow==1.10.11
 apispec==3.1.0
 appdirs==1.4.3
 argcomplete==1.10.0
