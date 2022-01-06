@@ -15,7 +15,7 @@ billiard==3.6.1.0
 black==19.3b0
 bs4==0.0.1
 cached-property==1.5.1
-celery==4.4.0
+celery==5.2.2
 certifi==2019.9.11
 cffi==1.13.2
 cfgv==2.0.1
